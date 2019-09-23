@@ -1,10 +1,3 @@
- <marque> welcome to my repository </marquee>
+School Management System with Php & MYSQL
 
-
-
-# thanks for being here
-
-
-
-
-#email santoshsahsays@gmail.com
+if any query write me to santoshsahsays@gmail.com
